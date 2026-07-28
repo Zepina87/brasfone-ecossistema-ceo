@@ -1,0 +1,66 @@
+# Blackboard
+
+**Camada 3 de 4** | Actualizada após cada acção com efeito no mundo, não no fim da sessão
+
+> Copia este ficheiro para `state.md` na primeira vez que o usares. O `state.md` está no
+> `.gitignore`: o que andas a fazer é teu e não entra no repositório. O template fica.
+
+**Regras:** secções fixas, não inventar novas. Só acrescentar, nunca apagar. Datas em ano-mês-dia.
+Corrigir com entrada nova que referencia a antiga.
+
+---
+
+## OBJECTIVO ACTIVO
+
+```
+[data] O que estou a tentar conseguir, em duas ou três linhas.
+       O que já está feito. O que falta. O que está a bloquear.
+```
+
+---
+
+## DECISÕES TOMADAS
+
+*As decisões, não as conversas. Cada uma com a razão, porque em Novembro não te vais lembrar
+porque é que escolheste assim, e sem a razão vais reabrir a discussão do zero.*
+
+```
+[data] DECISÃO: o que ficou decidido
+       RAZÃO: porquê
+       ALTERNATIVA REJEITADA: o que se considerou e não se fez
+```
+
+---
+
+## PENDENTES
+
+*Coisas paradas à espera de algo. Cada uma diz à espera de quê, senão não é um pendente, é um
+desejo.*
+
+```
+[data] O que está parado | à espera de: [pessoa, acesso, decisão, dado] | desde quando
+```
+
+---
+
+## À ESPERA DE APROVAÇÃO
+
+*Acções que o Cérebro quer fazer e que param porque se vêem de fora. Caducam em sete dias.*
+
+```
+[data] Acção exacta | razão do gate | aguarda "aprovado: [acção]"
+```
+
+---
+
+## RUNS
+
+*Pontos de controlo de orquestrações com três ou mais passos, para poderem ser retomadas. Vão ser
+interrompidas, portanto isto não é opcional.*
+
+```
+run: [nome-data] | objectivo: [uma linha] | estado: 🔄 a correr / ⏸ retomável / ✅ fechado
+plano: [resumo, ou apontador para o ficheiro do plano]
+passos: 1✅ 2✅ 3⏸ (onde parou e o que falta)
+retoma: [o que verificar antes de continuar. Um ponto de controlo é um save, não a verdade]
+```

@@ -1,0 +1,30 @@
+# Segredos, nunca committar
+.env
+.env.local
+*.key
+*.pem
+settings.json
+settings.local.json
+
+# Memória viva: o template fica, o conteúdo é teu e não entra
+cerebro/memory/state.md
+cerebro/memory/session-*.md
+
+# Dados de pessoas, nunca no repositório (ver seguranca/05-DADOS-PESSOAIS.md)
+*.csv
+*.xlsx
+dados/
+contactos/
+
+# Outputs gerados
+outputs/
+**/outputs/*
+!**/outputs/.gitkeep
+
+# Sistema
+.DS_Store
+node_modules/
+*.log
+
+# Lixo de um hook com caminho Windows: cria uma pasta literal chamada "C:"
+C:/
