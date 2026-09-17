@@ -32,7 +32,7 @@ Não são agentes. São filtros que correm por cima do que sai.
 
 ## Fichas de desenho, à espera da Oficina
 
-Estes três não são agentes. São **desenhos**, com o problema, os modos propostos e as decisões
+Estes quatro não são agentes. São **desenhos**, com o problema, os modos propostos e as decisões
 difíceis já mapeadas. Não os instalei porque um agente que eu adivinhei é um agente que usas duas
 vezes e abandonas.
 
@@ -45,6 +45,7 @@ objectivo: a ficha é o ponto de partida informado, não o produto.
 | [O Painel](../fichas/o-painel.md) | Os números das frentes do grupo num sítio, sem pedir a ninguém | ⬜ não forjado |
 | [O Cronista](../fichas/o-cronista.md) | Reunião para decisões, o que prometi, o que me prometeram, riscos | ⬜ não forjado |
 | [Design Pro](../fichas/design-pro.md) | Decks de board, dashboards e one pagers sem depender de designer | ⬜ não forjado |
+| [O Eco](../fichas/o-eco.md) | Visibilidade da marca nas respostas de IA: mede, audita, gera conteúdo citável | ⬜ não forjado |
 
 O catálogo dos 25 agentes que já correm na Brasfone está em
 [fichas/OS-25-DA-BRASFONE.md](../fichas/OS-25-DA-BRASFONE.md). Uma linha por agente. Serve para

@@ -72,7 +72,7 @@ modos escolheu. Se escolheu mal, dizes lhe, e essa correcção vai para a memór
 | `metodo/` | Nove documentos: anatomia, memória, SPAR, autonomia, orquestração, loops, qualidade, custo, erros |
 | `seguranca/` | Cinco documentos e uma checklist. Segredos, repositórios de fora, injecção de prompt, permissões, dados pessoais |
 | `skills/` | Dezassete ferramentas de ofício: gates de qualidade, design, memória, pensamento |
-| `fichas/` | Três desenhos de agentes à espera da Oficina, e o catálogo dos 25 da Brasfone |
+| `fichas/` | Quatro desenhos de agentes à espera da Oficina, e o catálogo dos 25 da Brasfone |
 | `templates/` `scripts/` | Moldes e o instalador |
 | `agentes/` | Vazia. É aqui que vão viver os que tu criares |
 
