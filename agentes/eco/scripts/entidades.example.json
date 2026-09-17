@@ -1,0 +1,14 @@
+{
+  "_como_usar": "Copia este ficheiro para 'entidades.json' (fora do controlo de versão do teu repositório, ou versionado só se souberes que quer ficar público) e preenche com a tua marca real. Uma chave por marca/entidade que geras.",
+  "a-tua-marca": {
+    "name": "[NOME DA MARCA]",
+    "legalName": "[RAZÃO SOCIAL, se diferente do nome da marca]",
+    "url": "https://[o-teu-dominio]",
+    "description": "[Uma frase objectiva: o que a marca é e o que faz. Isto entra no JSON-LD, não é copy de marketing.]",
+    "slogan": "[opcional]",
+    "areaServed": ["PT"],
+    "sameAs": ["https://www.linkedin.com/company/[a-tua-pagina]"],
+    "logo": "https://[o-teu-dominio]/caminho/para/logo.png",
+    "knowsAbout": ["[tema 1]", "[tema 2]"]
+  }
+}

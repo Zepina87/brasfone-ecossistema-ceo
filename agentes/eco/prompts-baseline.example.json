@@ -1,0 +1,17 @@
+{
+  "_como_usar": "Copia para 'prompts-baseline.json' e substitui pelas TUAS perguntas reais: as que um potencial cliente faria a um chat antes de te contactar. Depois de correr a primeira medição, esta lista CONGELA — mudar as perguntas parte a comparação com o mês anterior. Uma pergunta nova entra como versão nova (v1.1, v1.2...), nunca substitui as antigas em silêncio.",
+  "versao": "v1.0",
+  "categorias": {
+    "A": "pergunta directa sobre a categoria (ex.: 'quem faz X em Portugal')",
+    "B": "pergunta de comparação (ex.: 'X vs Y, qual escolher')",
+    "C": "pergunta de dor/problema (ex.: 'como resolver Z')",
+    "D": "pergunta de entidade (ex.: 'o que é a [marca]') — mede exactidão, não share of voice"
+  },
+  "prompts": [
+    {"id": "A1", "categoria": "A", "sov": true, "texto": "[EXEMPLO] quais são as melhores empresas de [a tua categoria] em Portugal"},
+    {"id": "A2", "categoria": "A", "sov": true, "texto": "[EXEMPLO] recomenda-me um fornecedor de [o teu serviço]"},
+    {"id": "B1", "categoria": "B", "sov": true, "texto": "[EXEMPLO] [concorrente 1] vs [concorrente 2], qual é melhor"},
+    {"id": "C1", "categoria": "C", "sov": true, "texto": "[EXEMPLO] como resolver [o problema que a tua marca resolve]"},
+    {"id": "D1", "categoria": "D", "sov": false, "texto": "[EXEMPLO] o que é a [o nome da tua marca]"}
+  ]
+}

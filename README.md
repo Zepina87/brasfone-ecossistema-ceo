@@ -72,11 +72,9 @@ modos escolheu. Se escolheu mal, dizes lhe, e essa correcção vai para a memór
 | `metodo/` | Nove documentos: anatomia, memória, SPAR, autonomia, orquestração, loops, qualidade, custo, erros |
 | `seguranca/` | Cinco documentos e uma checklist. Segredos, repositórios de fora, injecção de prompt, permissões, dados pessoais |
 | `skills/` | Dezassete ferramentas de ofício: gates de qualidade, design, memória, pensamento |
-| `fichas/` | Quatro desenhos de agentes à espera da Oficina, e o catálogo dos 25 da Brasfone |
+| `fichas/` | Três desenhos de agentes à espera da Oficina, e o catálogo dos 25 da Brasfone |
 | `templates/` `scripts/` | Moldes e o instalador |
-| `agentes/` | Vazia. É aqui que vão viver os que tu criares |
-
-A pasta `agentes/` estar vazia é o ponto de partida, não uma omissão.
+| `agentes/` | O Eco, já forjado (visibilidade de marca em respostas de IA). Os que tu criares vivem aqui também |
 
 ---
 

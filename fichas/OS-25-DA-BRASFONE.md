@@ -16,7 +16,7 @@ e como. Depois forja a **tua** versão na Oficina, com a tua lente.
 | Estratega | Relatório comercial, funil, previsão, por pessoa | ⭐ Ficha O Painel |
 | Sentinela | Semáforo do pipeline, alertas vermelhos | ⭐ Ficha O Painel |
 | Sombra | Marca pessoal, conteúdo, publicações | 🔸 Se comunicares para fora |
-| Eco | Visibilidade da marca nas respostas de IA (ChatGPT, Perplexity, Gemini): mede, audita, gera conteúdo citável | ⭐ Ficha O Eco, sobretudo se giere marketing ou growth |
+| Eco | Visibilidade da marca nas respostas de IA (ChatGPT, Perplexity, Gemini): mede, audita, gera conteúdo citável | ⭐ Já instalado em `agentes/eco/`, sobretudo se geres marketing ou growth |
 | Design Pro | Apresentações, propostas, dashboards em HTML | ⭐ Ficha Design Pro |
 | Transcritor · Intérprete | Chamadas e reuniões para registo estruturado | 🔸 Base da ficha O Cronista |
 | Hunter · Garimpeiro · Recruta | Prospecção e criação de oportunidades | ❌ Não prospectas |

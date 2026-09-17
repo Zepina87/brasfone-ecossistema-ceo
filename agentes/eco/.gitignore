@@ -1,0 +1,8 @@
+# Dados reais da tua marca: locais por omissão, este repositório é público.
+scripts/entidades.json
+prompts-baseline.json
+prompts-baseline-v*.json
+baseline/*.json
+baseline/*.jsonl
+!baseline/.gitkeep
+__pycache__/
