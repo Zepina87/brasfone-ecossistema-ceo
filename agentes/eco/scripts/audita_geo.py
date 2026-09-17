@@ -28,7 +28,7 @@ UA = "Mozilla/5.0 (compatible; EcoGEO/1.0)"
 _CANON = {}
 try:
     import os as _os
-    _p = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "..", "kb", "dados", "ai-robots.json")
+    _p = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "..", "kb", "ai-robots.json")
     with open(_p, encoding="utf-8") as _f:
         _CANON = {k: v for k, v in json.load(_f).items() if not k.startswith("_")}
 except Exception:

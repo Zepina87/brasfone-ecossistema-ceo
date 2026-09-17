@@ -177,7 +177,7 @@ empresa criar o seu item: se chegares a esse ponto, confirma o critério em vigo
 |---|---|
 | Doutrina | `agentes/eco/MASTER-PROMPT-ECO.md` (este ficheiro) |
 | A tua bateria de perguntas | `agentes/eco/prompts-baseline.json` (local; parte de `prompts-baseline.example.json`) |
-| Auditoria técnica | `agentes/eco/scripts/audita_geo.py` + `agentes/eco/kb/dados/ai-robots.json` (lista canónica de bots, cópia local de `ai-robots-txt/ai.robots.txt`, MIT) |
+| Auditoria técnica | `agentes/eco/scripts/audita_geo.py` + `agentes/eco/kb/ai-robots.json` (lista canónica de bots, cópia local de `ai-robots-txt/ai.robots.txt`, MIT) |
 | Entidade | `agentes/eco/scripts/audita_entidade.py` + `agentes/eco/scripts/entidades.json` (local; parte de `entidades.example.json`) |
 | JSON-LD | `agentes/eco/scripts/gera_jsonld.py` + o mesmo `entidades.json` |
 | Motor de medição multi-corrida (Modo 2) | por construir — é o passo natural depois de teres a bateria e o script de auditoria a funcionar; não vem pronto de propósito, porque a escolha de motores e amostragem é tua |
